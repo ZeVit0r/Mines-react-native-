@@ -1,4 +1,4 @@
-<h1 align="center">Mines(react-native)</h1>
+<h1 align="center">Mines(React-Native)</h1>
 
 <div align="center">
   <img src="img_1.png" width="250" title="img_1.png">
